@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My Portfolio</h1>
+<p>This is a paragraph.</p>
+<a title="Kobi Gideon / Government Press Office of Israel, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gaza_envelope_after_coordinated_surprise_offensive_on_Israel,_October_2023_(KBG_GPO05).jpg"><img width="512" alt="Gaza envelope after coordinated surprise offensive on Israel, October 2023 (KBG GPO05)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gaza_envelope_after_coordinated_surprise_offensive_on_Israel%2C_October_2023_%28KBG_GPO05%29.jpg/512px-Gaza_envelope_after_coordinated_surprise_offensive_on_Israel%2C_October_2023_%28KBG_GPO05%29.jpg?20231015124904"></a>
+</body>
+</html>
